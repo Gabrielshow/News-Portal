@@ -1,0 +1,4 @@
+// instead of using dummy data, one could build a sort of component that allows user to enter the news article with the particular section it's meant for
+// this allows the user to dynamically add data to the website
+// the inserted data should be added to the dummy data, and the dummy data re-rendered
+// one could later store the news article into a database
